@@ -1,2 +1,2 @@
 # LeetMetric
-LeetMetric is a third-party productivity and analytics tool designed specifically for LeetCode users. It enhances your coding practice experience by converting your raw LeetCode activity into visual insights and progress metrics. 
+It's an interactive web dashboard built with HTML, CSS, JavaScript (often using Tailwind, ApexCharts or Chart.js) that lets you input your LeetCode username and view your coding stats---like total problems solved, difficulty breakdown, acceptance rate, submission history, etc.....
