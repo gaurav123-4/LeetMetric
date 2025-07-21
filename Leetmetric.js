@@ -420,7 +420,7 @@ document.addEventListener("DOMContentLoaded", function() {
                             <div class="progress-bar-container" style="width: 100%; height: 150px; background: rgba(255,255,255,0.1); border-radius: 12px; overflow: hidden; position: relative; display: flex; align-items: end; box-shadow: inset 0 2px 4px rgba(0,0,0,0.1);">
                                 <div class="progress-bar" style="width: 100%; height: ${easyPercent}%; background: linear-gradient(180deg, #48bb78, #38a169); transition: height 1.5s ease; border-radius: 12px 12px 0 0; box-shadow: 0 2px 8px rgba(72, 187, 120, 0.3);"></div>
                             </div>
-                            <div class="count-text" style="font-size: 0.9rem; color: #a0aec0; margin-top: 0.8rem; text-align: center; font-weight: 500;">${easyCount} problems</div>
+                            <div class="count-text" style="font-size: 0.9rem; color: #a0aec0; margin-top: 0.8rem; text-align: center; font-weight: 500;">${easyCount} Problems</div>
                         </div>
                         
                         <!-- Medium Column -->
@@ -431,7 +431,7 @@ document.addEventListener("DOMContentLoaded", function() {
                             <div class="progress-bar-container" style="width: 100%; height: 150px; background: rgba(255,255,255,0.1); border-radius: 12px; overflow: hidden; position: relative; display: flex; align-items: end; box-shadow: inset 0 2px 4px rgba(0,0,0,0.1);">
                                 <div class="progress-bar" style="width: 100%; height: ${mediumPercent}%; background: linear-gradient(180deg, #ed8936, #dd6b20); transition: height 1.5s ease; border-radius: 12px 12px 0 0; box-shadow: 0 2px 8px rgba(237, 137, 54, 0.3);"></div>
                             </div>
-                            <div class="count-text" style="font-size: 0.9rem; color: #a0aec0; margin-top: 0.8rem; text-align: center; font-weight: 500;">${mediumCount} problems</div>
+                            <div class="count-text" style="font-size: 0.9rem; color: #a0aec0; margin-top: 0.8rem; text-align: center; font-weight: 500;">${mediumCount} Problems</div>
                         </div>
                         
                         <!-- Hard Column -->
@@ -442,7 +442,7 @@ document.addEventListener("DOMContentLoaded", function() {
                             <div class="progress-bar-container" style="width: 100%; height: 150px; background: rgba(255,255,255,0.1); border-radius: 12px; overflow: hidden; position: relative; display: flex; align-items: end; box-shadow: inset 0 2px 4px rgba(0,0,0,0.1);">
                                 <div class="progress-bar" style="width: 100%; height: ${hardPercent}%; background: linear-gradient(180deg, #e53e3e, #c53030); transition: height 1.5s ease; border-radius: 12px 12px 0 0; box-shadow: 0 2px 8px rgba(229, 62, 62, 0.3);"></div>
                             </div>
-                            <div class="count-text" style="font-size: 0.9rem; color: #a0aec0; margin-top: 0.8rem; text-align: center; font-weight: 500;">${hardCount} problems</div>
+                            <div class="count-text" style="font-size: 0.9rem; color: #a0aec0; margin-top: 0.8rem; text-align: center; font-weight: 500;">${hardCount} Problems</div>
                         </div>
                     </div>
                     
